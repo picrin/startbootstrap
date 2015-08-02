@@ -1,9 +1,10 @@
 ---
-title: "Creative"
+title: "Simple Snake"
 slug: creative
+anchor: https://tomocchino.github.io/react-snake/
 source: /template-overviews/creative
-categories: template landing-pages one-page portfolios featured popular
-description: A one page creative theme.
+categories: games 
+description: !
 ---
 
-<img src="/assets/img/templates/creative.jpg" class="img-responsive" alt="Free Bootstrap Creative Theme - Start Bootstrap">
+<img src="/assets/img/snake.jpg" class="img-responsive" alt="Free Bootstrap Creative Theme - Start Bootstrap">

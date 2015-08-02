@@ -1,9 +1,10 @@
 ---
-title: "Bare"
+title: "2048 Wrap"
 slug: bare
+anchor: https://picrin.github.io
 source: /template-overviews/bare
-categories: template landing-pages unstyled navigation-menus popular
-description: A Bootstrap HTML starter template.
+categories: games
+description: klon popularnej gry przegladarkowej 2048 -- klocki moga przenikac przez sciany!
 ---
 
-<img src="/assets/img/templates/bare.jpg" class="img-responsive" alt="Bare Bootstrap HTML Starter Template">
+<img src="/assets/img/2048wrap.jpg" class="img-responsive" alt="Bare Bootstrap HTML Starter Template">
